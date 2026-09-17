@@ -1,18 +1,10 @@
-<h1 align="center">Hi, I'm Devesh 👋</h1>
-
-<p align="center">
-  <b>Full Stack Developer</b> — Python (Django · FastAPI) &nbsp;·&nbsp; Angular 22 &nbsp;·&nbsp; PostgreSQL
-</p>
-
-<p align="center">
-  I build and ship complete web applications, not tutorials.<br/>
-  Three live products in production. Currently going deeper on backend systems and distributed fundamentals.
-</p>
+<img src="./banner.svg" alt="Devesh Sharma — Full Stack Developer" width="100%"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/devesh-sharma-445b2822a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:devesh.sharma.backend@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Bhopal,%20India-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://komarev.com/ghpvc/?username=DeveshFullstack01&style=for-the-badge&color=5EEAD4&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 ---
@@ -53,45 +45,55 @@
 
 ---
 
-### 🚀 What I've built
+## 🚀 What I've built
 
-#### 🧠 SmartHire ATS — Applicant Tracking System
+### 🧠 SmartHire ATS — Applicant Tracking System
+
+<img src="./smarthire.png" alt="SmartHire ATS dashboard" width="100%"/>
+
 > End-to-end hiring platform: job posting, application intake, AI resume screening, interview scheduling and offer tracking across admin, recruiter and candidate roles. An LLM layer parses resumes, extracts skills and scores each candidate against the job description, replacing manual shortlisting. Permissions are enforced server-side on every endpoint, closing privilege-escalation paths a UI-only check would leave open.
 
 `Django` `DRF` `PostgreSQL` `LLM API` `Chart.js` `Render`
 
-**[Live demo](LIVE-URL-SMARTHIRE)** · **[Code](https://github.com/DeveshFullstack01/REPO-SMARTHIRE)**
+**[🔗 Live demo](LIVE-URL-SMARTHIRE)** &nbsp;·&nbsp; **[💻 Code](https://github.com/DeveshFullstack01/REPO-SMARTHIRE)**
 
 ---
 
-#### 🔧 FixIt — Apartment Maintenance Ticketing System
+### 🔧 FixIt — Apartment Maintenance Ticketing System
+
+<img src="./fixit.png" alt="FixIt ticketing dashboard" width="100%"/>
+
 > Full-stack ticketing for residents, technicians and managers with JWT auth and role-scoped data access. SLA tracking uses lazy auto-escalation — breached tickets are re-prioritized on read, avoiding a separate scheduler process and its failure modes. Includes a per-ticket status timeline, in-app notifications, technician ratings and an analytics dashboard over aggregated queries.
 
 `FastAPI` `SQLAlchemy 2.0` `Angular 22` `PostgreSQL (Neon)` `JWT` `Render` `Vercel`
 
-**[Live demo](LIVE-URL-FIXIT)** · **[Code](https://github.com/DeveshFullstack01/REPO-FIXIT)**
+**[🔗 Live demo](LIVE-URL-FIXIT)** &nbsp;·&nbsp; **[💻 Code](https://github.com/DeveshFullstack01/REPO-FIXIT)**
 
 ---
 
-#### 🍦 Ice Cream Paradise — API-First E-Commerce Storefront
+### 🍦 Ice Cream Paradise — API-First E-Commerce Storefront
+
+<img src="./icecream.png" alt="Ice Cream Paradise storefront" width="100%"/>
+
 > A Django REST backend exposing catalogue, category and filtering endpoints, consumed by a standalone Angular client deployed separately. Server-side filtering, search and pagination via django-filter so the frontend never over-fetches. Interactive OpenAPI docs via drf-spectacular, and idempotent slug-keyed seed migrations so catalogue data rebuilds correctly on every release.
 
 `Django` `DRF` `Angular` `drf-spectacular` `Render` `Vercel`
 
-**[Live demo](LIVE-URL-ICECREAM)** · **[Code](https://github.com/DeveshFullstack01/icecream-project)**
+**[🔗 Live demo](LIVE-URL-ICECREAM)** &nbsp;·&nbsp; **[💻 Code](https://github.com/DeveshFullstack01/icecream-project)**
 
 ---
 
-#### ⚡ Redis Clone — In-Memory Key-Value Store *(in progress)*
+### ⚡ Redis Clone — In-Memory Key-Value Store *(in progress)*
+
 > Written from scratch in Python: an asyncio TCP server speaking the RESP wire protocol, with TTL expiry, LRU eviction and AOF persistence. Built to understand what actually happens below the client library.
 
 `Python` `asyncio` `TCP` `RESP`
 
-**[Code](https://github.com/DeveshFullstack01/REDIS-CLONE)**
+**[💻 Code](https://github.com/DeveshFullstack01/REDIS-CLONE)**
 
 ---
 
-### 📈 Currently
+## 📈 Currently
 
 - Extending the Redis clone — lists, sets and hashes next
 - 100+ DSA problems solved on LeetCode and GeeksforGeeks
@@ -101,6 +103,16 @@
 ---
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DeveshFullstack01&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveshFullstack01&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DeveshFullstack01&show_icons=true&hide_border=true&bg_color=0B1220&title_color=5EEAD4&icon_color=A78BFA&text_color=94A3B8&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveshFullstack01&layout=compact&hide_border=true&bg_color=0B1220&title_color=5EEAD4&text_color=94A3B8" alt="Top languages"/>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveshFullstack01&hide_border=true&background=0B1220&ring=5EEAD4&fire=A78BFA&currStreakLabel=5EEAD4" alt="Streak"/>
+</div>
+
+<br/>
+
+<p align="center">
+  <i>Thanks for stopping by — happy to talk about any of the above.</i>
+</p>
